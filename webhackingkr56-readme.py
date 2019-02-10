@@ -1,6 +1,6 @@
 import requests
 
-session_id={'PHPSESSID':'e77347b38ce9357d2cfc0bfdbe76c167'}
+session_id={'PHPSESSID':''}
 
 length='_'
 length_num=1
